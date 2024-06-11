@@ -1,0 +1,9 @@
+.background{
+    width: 100vh;
+    height: 100vw;
+    backgroundImage: url('https://i.pinimg.com/564x/e1/9b/f0/e19bf09954ad5231ad9a89cb8db03ec4.jpg');
+    backgroundSize: 'cover';
+    backgroundPosition: 'center';
+    backgroundRepeat: 'no-repeat';
+    opacity: 0.5;
+}
